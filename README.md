@@ -79,15 +79,7 @@ Le module crée une table `zablogin_tokens` avec la structure suivante :
 - `AdminZabLoginAsController::initContent()` : Génération du token sécurisé
 - `ZabloginasLoginTokenModuleFrontController::init()` : Traitement et validation du token
 
-## 🤝 Contribution
 
-Les contributions sont les bienvenues ! N'hésitez pas à :
-
-1. 🍴 Fork le projet
-2. 🌟 Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commiter vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Pusher vers la branche (`git push origin feature/AmazingFeature`)
-5. 🔀 Ouvrir une Pull Request
 
 ## 📝 Changelog
 
