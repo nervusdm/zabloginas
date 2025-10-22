@@ -1,4 +1,4 @@
-# 🔐 ZabLoginAs - Module PrestaShop
+# 🔐 ZabLoginAs - Module PrestaShop pour se connecter sur le compte d'un client
 
 
 Un module PrestaShop sécurisé qui permet aux administrateurs de se connecter en tant que client via un système de tokens temporaires. Faites en ce que vous voulez ;)
